@@ -1,4 +1,4 @@
 ## Hi there! 👋
 
 - 💻 I'm a computer science student with a strong interest in cybersecurity and competitive programming, constantly refining my problem-solving and security expertise through hands-on projects and competitions.
-- 🔐 Currently developing a stateful firewall and a honeypot (ssh & http).
+- 🔐 Currently developing a SIEM & Alerting Pipeline (Wazuh / ELK) 
